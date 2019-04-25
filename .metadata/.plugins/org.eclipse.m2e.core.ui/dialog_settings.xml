@@ -6,6 +6,7 @@
 			<item value="io.caoxx123"/>
 		</list>
 		<list key="name">
+			<item value="config-serve"/>
 			<item value="product-view-service-feign"/>
 			<item value="product-view-service-ribbon"/>
 			<item value="product-data-service"/>
@@ -13,8 +14,9 @@
 			<item value="springcloud"/>
 		</list>
 		<list key="artifactId">
-			<item value="product-view-service-feign"/>
+			<item value="config-serve"/>
 			<item value="springcloud"/>
+			<item value="product-view-service-feign"/>
 			<item value="product-view-service-ribbon"/>
 			<item value="product-data-service"/>
 			<item value="eureka-server"/>
@@ -48,6 +50,7 @@
 	</section>
 	<section name="MavenModuleWizardParentPage">
 		<list key="moduleName">
+			<item value="config-serve"/>
 			<item value="product-view-service-feign"/>
 			<item value="product-view-service-ribbon"/>
 			<item value="product-data-service"/>
@@ -76,13 +79,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="org.product.view.service.feign"/>
+			<item value="org.config.serve"/>
 		</list>
 		<list key="groupId">
 			<item value="io.caoxx123.springcloud"/>
 		</list>
 		<list key="artifactId">
-			<item value="product-view-service-feign"/>
+			<item value="config-serve"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
