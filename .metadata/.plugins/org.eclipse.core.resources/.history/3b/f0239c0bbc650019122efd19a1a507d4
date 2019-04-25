@@ -1,0 +1,28 @@
+package io.caoxx123.springcloud;
+
+import java.util.Scanner;
+import java.util.concurrent.Future;
+
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
+
+import cn.hutool.core.thread.ThreadUtil;
+
+@SpringBootApplication
+@EnableEurekaClient
+public class ProductDataServiceApplication {
+	public static void main(String[] args) {
+		int port = 0;
+		int defaultPort = 8001;
+		Future<Integer> future = (Future<Integer>) ThreadUtil.execAsync(() -> {
+			int p = 0;
+			System.out.println("请于5秒钟内输入端口号，推荐8001、8002、8003，超过5秒将使用默认端口" + defaultPort);
+			Scanner scanner = new Scanner(System.in);
+			while (true) {
+
+			}
+		});
+		return port;
+	}
+
+}

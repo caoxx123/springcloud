@@ -1,0 +1,19 @@
+package io.caoxx123.controller;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.RestController;
+
+import io.caoxx123.pojo.Product;
+import io.caoxx123.service.ProductService;
+
+@RestController
+public class ProductController {
+	@Autowired
+	ProductService productService;
+	public Object products() {
+		List<Product> ps=productService.listpProducts();
+		return ps;
+	}
+}

@@ -1,0 +1,5 @@
+eureka:
+  instance:
+#  表示主机名称
+    hostname: localhost
+    

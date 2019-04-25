@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: product-view-service-ribbon
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 曹涛
+Implementation-Vendor-Id: io.caoxx123.springcloud
+Build-Jdk: 1.8.0_192
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springcloud/product-view-service-ribbon
+Created-By: Maven Integration for Eclipse
+

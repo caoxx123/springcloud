@@ -1,0 +1,8 @@
+package io.caoxx123.client;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class ProductClientRibbon {
+
+}

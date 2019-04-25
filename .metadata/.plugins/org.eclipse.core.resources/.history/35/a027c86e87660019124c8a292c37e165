@@ -1,0 +1,8 @@
+package io.caoxx123.client;
+
+import org.springframework.cloud.openfeign.FeignClient;
+
+@FeignClient(value="PRODUCT-DATA-SERVICE")
+public interface ProductClientFeign {
+
+}

@@ -1,0 +1,13 @@
+package io.caoxx123.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import io.caoxx123.client.ProductClientFeign;
+
+@Service
+public class ProductService {
+@Autowired
+ProductClientFeign productClientFeign;
+
+}

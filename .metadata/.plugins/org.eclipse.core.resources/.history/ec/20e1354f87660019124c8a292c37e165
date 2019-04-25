@@ -1,0 +1,5 @@
+package io.caoxx123.client;
+
+public interface ProductClientFeign {
+
+}

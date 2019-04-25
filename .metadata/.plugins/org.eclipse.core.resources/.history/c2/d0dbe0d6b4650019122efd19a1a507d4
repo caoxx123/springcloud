@@ -1,0 +1,15 @@
+package io.caoxx123.springlcloud;
+
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
+
+@SpringBootApplication
+@EnableEurekaServer//注册中心 EurekaServer 本身就是个 Springboot 微服务, 所以它有 @SpringBootApplication 注解。
+public class EurekaServerApplication {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

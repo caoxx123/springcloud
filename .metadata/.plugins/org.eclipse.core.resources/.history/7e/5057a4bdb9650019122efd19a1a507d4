@@ -1,0 +1,15 @@
+package io.caoxx123.service;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.stereotype.Service;
+
+import io.caoxx123.pojo.Product;
+
+@Service
+public class ProductService {
+	@Value("${server.port}")
+	String port;
+	List<Product> 
+}

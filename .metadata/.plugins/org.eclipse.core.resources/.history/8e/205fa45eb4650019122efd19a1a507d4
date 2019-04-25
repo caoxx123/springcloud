@@ -1,0 +1,10 @@
+package io.caoxx123.springlcloud;
+
+public class EurekaServerApplication {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
