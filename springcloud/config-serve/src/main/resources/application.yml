@@ -6,8 +6,10 @@ spring:
       label: master
       server:
         git:
-          uri: https://github.com/caoxx123/springcloud/
-          searchPaths: springcloudconfig
+          uri: https://github.com/how2j/springcloudConfig/
+          searchPaths: respo
+          #          uri: https://github.com/caoxx123/springcloud/
+#          search-paths:#          - springcloudconfig
 eureka:
   client:
     serviceUrl:

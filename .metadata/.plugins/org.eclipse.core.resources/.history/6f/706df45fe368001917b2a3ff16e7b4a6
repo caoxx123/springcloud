@@ -1,0 +1,15 @@
+package io.caoxx123.client;
+
+import java.util.List;
+
+import io.caoxx123.pojo.Product;
+
+public class ProductClientFeignHystrix implements ProductClientFeign {
+
+	@Override
+	public List<Product> listProducts() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

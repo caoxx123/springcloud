@@ -2,12 +2,9 @@
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="org.springframework.cloud.netflix.eureka.server.EnableEurekaServer"/>
 <fullyQualifiedTypeName name="io.caoxx123.springlcloud.EurekaServerApplication"/>
-<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Value"/>
 <fullyQualifiedTypeName name="java.awt.List"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
 <fullyQualifiedTypeName name="java.lang.Integer"/>
-<fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
 <fullyQualifiedTypeName name="io.caoxx123.client.ProductClientRibbon"/>
 <fullyQualifiedTypeName name="org.springframework.cloud.client.loadbalancer.LoadBalanced"/>
 <fullyQualifiedTypeName name="org.springframework.web.client.RestTemplate"/>
@@ -24,7 +21,6 @@
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
 <fullyQualifiedTypeName name="org.springframework.ui.Model"/>
 <fullyQualifiedTypeName name="java.util.List"/>
-<fullyQualifiedTypeName name="io.caoxx123.pojo.Product"/>
 <fullyQualifiedTypeName name="org.springframework.cloud.openfeign.EnableFeignClients"/>
 <fullyQualifiedTypeName name="cn.hutool.core.thread.ThreadUtil"/>
 <fullyQualifiedTypeName name="java.util.concurrent.Future"/>
@@ -45,4 +41,10 @@
 <fullyQualifiedTypeName name="io.caoxx123.ConfigServerApplication"/>
 <fullyQualifiedTypeName name="cn.hutool.core.util.NetUtil"/>
 <fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Value"/>
+<fullyQualifiedTypeName name="cn.hutool.http.HttpUtil"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="io.caoxx123.pojo.Product"/>
 </qualifiedTypeNameHistroy>

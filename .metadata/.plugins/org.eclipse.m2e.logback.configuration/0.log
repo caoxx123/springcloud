@@ -793,3 +793,647 @@
 2019-04-25 21:18:15,490 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2019-04-25 21:18:15,498 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-04-25 21:18:15,499 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-25 21:36:32,865 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 21:36:32,872 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-25 21:36:32,878 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-25 21:36:32,882 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 21:36:32,882 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-25 21:41:17,136 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 21:41:17,137 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-25 21:41:17,139 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-25 21:41:17,143 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 21:41:17,144 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-25 21:49:03,492 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 21:49:03,492 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-25 21:49:03,495 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-25 21:49:03,500 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 21:49:03,500 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-25 21:55:41,581 [Worker-2: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.caoxx123.springcloud:product-view-service-feign:0.0.1-SNAPSHOT @ D:\springCloud\springcloud\product-view-service-feign\pom.xml.
+2019-04-25 21:55:43,960 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-starter-config/2.0.0.RELEASE/spring-cloud-starter-config-2.0.0.RELEASE.pom
+2019-04-25 21:55:44,221 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-starter-config/2.0.0.RELEASE/spring-cloud-starter-config-2.0.0.RELEASE.pom
+2019-04-25 21:55:45,175 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-starter-config/2.0.0.RELEASE/spring-cloud-starter-config-2.0.0.RELEASE.jar
+2019-04-25 21:55:45,426 [Worker-2: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-starter-config/2.0.0.RELEASE/spring-cloud-starter-config-2.0.0.RELEASE.jar
+2019-04-25 21:55:46,190 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 21:55:46,191 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-25 21:55:46,203 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-25 21:55:46,209 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 21:55:46,210 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-25 21:55:52,175 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 21:55:52,185 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-25 21:55:52,197 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-25 21:55:52,308 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 21:55:52,308 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-25 21:55:52,953 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-starter-config/2.0.0.RELEASE/spring-cloud-starter-config-2.0.0.RELEASE-sources.jar
+2019-04-25 21:55:53,125 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-starter-config/2.0.0.RELEASE/spring-cloud-starter-config-2.0.0.RELEASE-sources.jar
+2019-04-25 21:55:53,197 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-starter-config:2.0.0.RELEASE
+2019-04-25 21:55:54,665 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 21:55:54,673 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-25 21:55:54,674 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-25 21:55:54,679 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 21:55:54,680 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-25 21:56:42,000 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 21:56:42,000 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-25 21:56:42,000 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-25 21:56:42,008 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 21:56:42,008 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-25 22:00:04,123 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 22:00:04,123 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-25 22:00:04,125 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-25 22:00:04,133 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 22:00:04,133 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-25 22:00:55,978 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 22:00:55,978 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-25 22:00:55,980 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-25 22:00:55,984 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 22:00:55,984 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-25 22:01:21,078 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 22:01:21,079 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-25 22:01:21,079 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-25 22:01:21,085 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 22:01:21,085 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-25 22:02:36,812 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 22:02:36,815 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-25 22:02:36,819 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-04-25 22:02:36,821 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 22:02:36,822 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-25 22:03:00,480 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 22:03:00,481 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-25 22:03:00,485 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-04-25 22:03:00,489 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 22:03:00,489 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-25 22:04:23,691 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 22:04:23,692 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-25 22:04:23,692 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-25 22:04:23,698 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 22:04:23,699 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-25 22:06:34,274 [Worker-2: Launching ConfigServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 22:06:34,275 [Worker-2: Launching ConfigServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-25 22:06:34,279 [Worker-2: Launching ConfigServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-25 22:06:34,283 [Worker-2: Launching ConfigServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 22:06:34,283 [Worker-2: Launching ConfigServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-26 07:16:09,678 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-04-26 07:16:20,769 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-26 07:16:20,779 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-26 07:16:20,806 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-26 07:16:20,811 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-26 07:16:20,812 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-26 07:16:23,503 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to build parent project for org.springframework.boot:spring-boot-starter-parent:pom:2.0.3.RELEASE
+2019-04-26 07:16:23,521 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to build parent project for io.caoxx123.springcloud:springcloud:pom:0.0.1-SNAPSHOT
+2019-04-26 13:32:54,357 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-04-26 14:05:12,823 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-26 14:05:12,831 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-26 14:05:12,856 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-26 14:05:12,860 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-26 14:05:12,860 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-26 14:05:15,059 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-26 14:05:15,059 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-26 14:05:15,062 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-26 14:05:15,066 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-26 14:05:15,066 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-26 14:05:17,136 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-26 14:05:17,136 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-26 14:05:17,140 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-26 14:05:17,143 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-26 14:05:17,144 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-26 14:05:19,766 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-26 14:05:19,767 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-26 14:05:19,772 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-04-26 14:05:19,797 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-26 14:05:19,798 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-26 14:05:22,112 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-26 14:05:22,113 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-26 14:05:22,116 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-26 14:05:22,128 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-26 14:05:22,129 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 08:48:15,918 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-04-27 08:48:26,242 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 08:48:26,270 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-27 08:48:26,361 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 08:48:26,429 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 08:48:26,430 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 08:48:31,795 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 08:48:31,796 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-27 08:48:31,801 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 08:48:31,804 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 08:48:31,804 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 11:32:13,360 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-04-27 19:36:31,534 [Worker-83: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.caoxx123.springcloud:product-view-service-feign:0.0.1-SNAPSHOT @ D:\springCloud\springcloud\product-view-service-feign\pom.xml.
+2019-04-27 19:36:34,426 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-starter-bus-amqp/2.0.0.RELEASE/spring-cloud-starter-bus-amqp-2.0.0.RELEASE.pom
+2019-04-27 19:36:34,559 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-starter-bus-amqp/2.0.0.RELEASE/spring-cloud-starter-bus-amqp-2.0.0.RELEASE.pom
+2019-04-27 19:36:34,719 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-bus-parent/2.0.0.RELEASE/spring-cloud-bus-parent-2.0.0.RELEASE.pom
+2019-04-27 19:36:34,860 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-bus-parent/2.0.0.RELEASE/spring-cloud-bus-parent-2.0.0.RELEASE.pom
+2019-04-27 19:36:35,002 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-starter-stream-rabbit/2.0.0.RELEASE/spring-cloud-starter-stream-rabbit-2.0.0.RELEASE.pom
+2019-04-27 19:36:35,133 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-starter-stream-rabbit/2.0.0.RELEASE/spring-cloud-starter-stream-rabbit-2.0.0.RELEASE.pom
+2019-04-27 19:36:35,270 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-stream-binder-rabbit-parent/2.0.0.RELEASE/spring-cloud-stream-binder-rabbit-parent-2.0.0.RELEASE.pom
+2019-04-27 19:36:35,401 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-stream-binder-rabbit-parent/2.0.0.RELEASE/spring-cloud-stream-binder-rabbit-parent-2.0.0.RELEASE.pom
+2019-04-27 19:36:35,573 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-build/2.0.0.RELEASE/spring-cloud-build-2.0.0.RELEASE.pom
+2019-04-27 19:36:35,740 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-build/2.0.0.RELEASE/spring-cloud-build-2.0.0.RELEASE.pom
+2019-04-27 19:36:35,921 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-build-dependencies/2.0.0.RELEASE/spring-cloud-build-dependencies-2.0.0.RELEASE.pom
+2019-04-27 19:36:36,069 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-build-dependencies/2.0.0.RELEASE/spring-cloud-build-dependencies-2.0.0.RELEASE.pom
+2019-04-27 19:36:36,201 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/boot/spring-boot-dependencies/2.0.1.RELEASE/spring-boot-dependencies-2.0.1.RELEASE.pom
+2019-04-27 19:36:36,393 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/boot/spring-boot-dependencies/2.0.1.RELEASE/spring-boot-dependencies-2.0.1.RELEASE.pom
+2019-04-27 19:36:36,527 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/com/fasterxml/jackson/jackson-bom/2.9.5/jackson-bom-2.9.5.pom
+2019-04-27 19:36:36,663 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/com/fasterxml/jackson/jackson-bom/2.9.5/jackson-bom-2.9.5.pom
+2019-04-27 19:36:36,799 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/com/fasterxml/jackson/jackson-parent/2.9.1/jackson-parent-2.9.1.pom
+2019-04-27 19:36:36,927 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/com/fasterxml/jackson/jackson-parent/2.9.1/jackson-parent-2.9.1.pom
+2019-04-27 19:36:37,055 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/com/fasterxml/oss-parent/30/oss-parent-30.pom
+2019-04-27 19:36:37,184 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/com/fasterxml/oss-parent/30/oss-parent-30.pom
+2019-04-27 19:36:37,317 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/io/netty/netty-bom/4.1.23.Final/netty-bom-4.1.23.Final.pom
+2019-04-27 19:36:37,443 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/io/netty/netty-bom/4.1.23.Final/netty-bom-4.1.23.Final.pom
+2019-04-27 19:36:37,573 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/io/projectreactor/reactor-bom/Bismuth-SR8/reactor-bom-Bismuth-SR8.pom
+2019-04-27 19:36:37,697 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/io/projectreactor/reactor-bom/Bismuth-SR8/reactor-bom-Bismuth-SR8.pom
+2019-04-27 19:36:37,826 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/eclipse/jetty/jetty-bom/9.4.9.v20180320/jetty-bom-9.4.9.v20180320.pom
+2019-04-27 19:36:37,955 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/eclipse/jetty/jetty-bom/9.4.9.v20180320/jetty-bom-9.4.9.v20180320.pom
+2019-04-27 19:36:38,081 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/spring-framework-bom/5.0.5.RELEASE/spring-framework-bom-5.0.5.RELEASE.pom
+2019-04-27 19:36:38,248 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/spring-framework-bom/5.0.5.RELEASE/spring-framework-bom-5.0.5.RELEASE.pom
+2019-04-27 19:36:38,383 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/data/spring-data-releasetrain/Kay-SR6/spring-data-releasetrain-Kay-SR6.pom
+2019-04-27 19:36:38,512 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/data/spring-data-releasetrain/Kay-SR6/spring-data-releasetrain-Kay-SR6.pom
+2019-04-27 19:36:38,640 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/data/build/spring-data-build/2.0.6.RELEASE/spring-data-build-2.0.6.RELEASE.pom
+2019-04-27 19:36:38,774 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/data/build/spring-data-build/2.0.6.RELEASE/spring-data-build-2.0.6.RELEASE.pom
+2019-04-27 19:36:38,906 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/integration/spring-integration-bom/5.0.4.RELEASE/spring-integration-bom-5.0.4.RELEASE.pom
+2019-04-27 19:36:39,040 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/integration/spring-integration-bom/5.0.4.RELEASE/spring-integration-bom-5.0.4.RELEASE.pom
+2019-04-27 19:36:39,172 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/security/spring-security-bom/5.0.4.RELEASE/spring-security-bom-5.0.4.RELEASE.pom
+2019-04-27 19:36:39,299 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/security/spring-security-bom/5.0.4.RELEASE/spring-security-bom-5.0.4.RELEASE.pom
+2019-04-27 19:36:39,429 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/session/spring-session-bom/Apple-SR1/spring-session-bom-Apple-SR1.pom
+2019-04-27 19:36:39,558 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/session/spring-session-bom/Apple-SR1/spring-session-bom-Apple-SR1.pom
+2019-04-27 19:36:39,701 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-stream-binder-rabbit/2.0.0.RELEASE/spring-cloud-stream-binder-rabbit-2.0.0.RELEASE.pom
+2019-04-27 19:36:39,866 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-stream-binder-rabbit/2.0.0.RELEASE/spring-cloud-stream-binder-rabbit-2.0.0.RELEASE.pom
+2019-04-27 19:36:40,004 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-stream-binder-rabbit-core/2.0.0.RELEASE/spring-cloud-stream-binder-rabbit-core-2.0.0.RELEASE.pom
+2019-04-27 19:36:40,134 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-stream-binder-rabbit-core/2.0.0.RELEASE/spring-cloud-stream-binder-rabbit-core-2.0.0.RELEASE.pom
+2019-04-27 19:36:40,326 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-stream/2.0.0.RELEASE/spring-cloud-stream-2.0.0.RELEASE.pom
+2019-04-27 19:36:40,452 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-stream/2.0.0.RELEASE/spring-cloud-stream-2.0.0.RELEASE.pom
+2019-04-27 19:36:40,614 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-stream-parent/2.0.0.RELEASE/spring-cloud-stream-parent-2.0.0.RELEASE.pom
+2019-04-27 19:36:40,787 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-stream-parent/2.0.0.RELEASE/spring-cloud-stream-parent-2.0.0.RELEASE.pom
+2019-04-27 19:36:40,913 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/io/projectreactor/reactor-bom/Bismuth-SR7/reactor-bom-Bismuth-SR7.pom
+2019-04-27 19:36:41,040 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/io/projectreactor/reactor-bom/Bismuth-SR7/reactor-bom-Bismuth-SR7.pom
+2019-04-27 19:36:41,201 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/boot/spring-boot-starter-validation/2.0.3.RELEASE/spring-boot-starter-validation-2.0.3.RELEASE.pom
+2019-04-27 19:36:41,349 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/boot/spring-boot-starter-validation/2.0.3.RELEASE/spring-boot-starter-validation-2.0.3.RELEASE.pom
+2019-04-27 19:36:41,486 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/spring-messaging/5.0.7.RELEASE/spring-messaging-5.0.7.RELEASE.pom
+2019-04-27 19:36:41,613 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/spring-messaging/5.0.7.RELEASE/spring-messaging-5.0.7.RELEASE.pom
+2019-04-27 19:36:41,771 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/integration/spring-integration-core/5.0.6.RELEASE/spring-integration-core-5.0.6.RELEASE.pom
+2019-04-27 19:36:41,922 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/integration/spring-integration-core/5.0.6.RELEASE/spring-integration-core-5.0.6.RELEASE.pom
+2019-04-27 19:36:42,058 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/spring-tx/5.0.7.RELEASE/spring-tx-5.0.7.RELEASE.pom
+2019-04-27 19:36:42,184 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/spring-tx/5.0.7.RELEASE/spring-tx-5.0.7.RELEASE.pom
+2019-04-27 19:36:42,312 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/retry/spring-retry/1.2.2.RELEASE/spring-retry-1.2.2.RELEASE.pom
+2019-04-27 19:36:42,440 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/retry/spring-retry/1.2.2.RELEASE/spring-retry-1.2.2.RELEASE.pom
+2019-04-27 19:36:42,571 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/io/projectreactor/reactor-core/3.1.8.RELEASE/reactor-core-3.1.8.RELEASE.pom
+2019-04-27 19:36:42,700 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/io/projectreactor/reactor-core/3.1.8.RELEASE/reactor-core-3.1.8.RELEASE.pom
+2019-04-27 19:36:42,830 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/reactivestreams/reactive-streams/1.0.2/reactive-streams-1.0.2.pom
+2019-04-27 19:36:42,974 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/reactivestreams/reactive-streams/1.0.2/reactive-streams-1.0.2.pom
+2019-04-27 19:36:43,198 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/integration/spring-integration-jmx/5.0.6.RELEASE/spring-integration-jmx-5.0.6.RELEASE.pom
+2019-04-27 19:36:43,336 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/integration/spring-integration-jmx/5.0.6.RELEASE/spring-integration-jmx-5.0.6.RELEASE.pom
+2019-04-27 19:36:43,468 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/spring-tuple/1.0.0.RELEASE/spring-tuple-1.0.0.RELEASE.pom
+2019-04-27 19:36:43,622 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/spring-tuple/1.0.0.RELEASE/spring-tuple-1.0.0.RELEASE.pom
+2019-04-27 19:36:43,746 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/spring-tuple-parent/1.0.0.RELEASE/spring-tuple-parent-1.0.0.RELEASE.pom
+2019-04-27 19:36:43,875 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/spring-tuple-parent/1.0.0.RELEASE/spring-tuple-parent-1.0.0.RELEASE.pom
+2019-04-27 19:36:44,002 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/com/esotericsoftware/kryo-shaded/3.0.3/kryo-shaded-3.0.3.pom
+2019-04-27 19:36:44,235 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/com/esotericsoftware/kryo-shaded/3.0.3/kryo-shaded-3.0.3.pom
+2019-04-27 19:36:44,364 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/com/esotericsoftware/kryo-parent/3.0.3/kryo-parent-3.0.3.pom
+2019-04-27 19:36:44,492 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/com/esotericsoftware/kryo-parent/3.0.3/kryo-parent-3.0.3.pom
+2019-04-27 19:36:44,617 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/com/esotericsoftware/minlog/1.3.0/minlog-1.3.0.pom
+2019-04-27 19:36:44,749 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/com/esotericsoftware/minlog/1.3.0/minlog-1.3.0.pom
+2019-04-27 19:36:44,880 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/objenesis/objenesis/2.1/objenesis-2.1.pom
+2019-04-27 19:36:45,011 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/objenesis/objenesis/2.1/objenesis-2.1.pom
+2019-04-27 19:36:45,237 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/objenesis/objenesis-parent/2.1/objenesis-parent-2.1.pom
+2019-04-27 19:36:45,372 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/objenesis/objenesis-parent/2.1/objenesis-parent-2.1.pom
+2019-04-27 19:36:45,502 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/integration/spring-integration-tuple/1.0.0.RELEASE/spring-integration-tuple-1.0.0.RELEASE.pom
+2019-04-27 19:36:45,633 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/integration/spring-integration-tuple/1.0.0.RELEASE/spring-integration-tuple-1.0.0.RELEASE.pom
+2019-04-27 19:36:45,820 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/boot/spring-boot-starter-amqp/2.0.3.RELEASE/spring-boot-starter-amqp-2.0.3.RELEASE.pom
+2019-04-27 19:36:45,959 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/boot/spring-boot-starter-amqp/2.0.3.RELEASE/spring-boot-starter-amqp-2.0.3.RELEASE.pom
+2019-04-27 19:36:46,237 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/amqp/spring-rabbit/2.0.4.RELEASE/spring-rabbit-2.0.4.RELEASE.pom
+2019-04-27 19:36:46,387 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/amqp/spring-rabbit/2.0.4.RELEASE/spring-rabbit-2.0.4.RELEASE.pom
+2019-04-27 19:36:46,538 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/amqp/spring-amqp/2.0.4.RELEASE/spring-amqp-2.0.4.RELEASE.pom
+2019-04-27 19:36:46,692 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/amqp/spring-amqp/2.0.4.RELEASE/spring-amqp-2.0.4.RELEASE.pom
+2019-04-27 19:36:46,821 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/com/rabbitmq/amqp-client/5.1.2/amqp-client-5.1.2.pom
+2019-04-27 19:36:47,108 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/com/rabbitmq/amqp-client/5.1.2/amqp-client-5.1.2.pom
+2019-04-27 19:36:47,437 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/integration/spring-integration-amqp/5.0.6.RELEASE/spring-integration-amqp-5.0.6.RELEASE.pom
+2019-04-27 19:36:47,636 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/integration/spring-integration-amqp/5.0.6.RELEASE/spring-integration-amqp-5.0.6.RELEASE.pom
+2019-04-27 19:36:47,891 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-bus/2.0.0.RELEASE/spring-cloud-bus-2.0.0.RELEASE.pom
+2019-04-27 19:36:48,136 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-bus/2.0.0.RELEASE/spring-cloud-bus-2.0.0.RELEASE.pom
+2019-04-27 19:36:48,668 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-starter-bus-amqp/2.0.0.RELEASE/spring-cloud-starter-bus-amqp-2.0.0.RELEASE.jar
+2019-04-27 19:36:48,830 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-starter-bus-amqp/2.0.0.RELEASE/spring-cloud-starter-bus-amqp-2.0.0.RELEASE.jar
+2019-04-27 19:36:49,104 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-starter-stream-rabbit/2.0.0.RELEASE/spring-cloud-starter-stream-rabbit-2.0.0.RELEASE.jar
+2019-04-27 19:36:49,644 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-starter-stream-rabbit/2.0.0.RELEASE/spring-cloud-starter-stream-rabbit-2.0.0.RELEASE.jar
+2019-04-27 19:36:49,868 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-stream-binder-rabbit/2.0.0.RELEASE/spring-cloud-stream-binder-rabbit-2.0.0.RELEASE.jar
+2019-04-27 19:36:50,022 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-stream-binder-rabbit/2.0.0.RELEASE/spring-cloud-stream-binder-rabbit-2.0.0.RELEASE.jar
+2019-04-27 19:36:50,211 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-stream-binder-rabbit-core/2.0.0.RELEASE/spring-cloud-stream-binder-rabbit-core-2.0.0.RELEASE.jar
+2019-04-27 19:36:50,485 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-stream-binder-rabbit-core/2.0.0.RELEASE/spring-cloud-stream-binder-rabbit-core-2.0.0.RELEASE.jar
+2019-04-27 19:36:50,917 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/boot/spring-boot-starter-amqp/2.0.3.RELEASE/spring-boot-starter-amqp-2.0.3.RELEASE.jar
+2019-04-27 19:36:51,131 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/boot/spring-boot-starter-amqp/2.0.3.RELEASE/spring-boot-starter-amqp-2.0.3.RELEASE.jar
+2019-04-27 19:36:51,470 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/amqp/spring-rabbit/2.0.4.RELEASE/spring-rabbit-2.0.4.RELEASE.jar
+2019-04-27 19:36:52,359 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/amqp/spring-rabbit/2.0.4.RELEASE/spring-rabbit-2.0.4.RELEASE.jar
+2019-04-27 19:36:52,664 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/amqp/spring-amqp/2.0.4.RELEASE/spring-amqp-2.0.4.RELEASE.jar
+2019-04-27 19:36:52,972 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/amqp/spring-amqp/2.0.4.RELEASE/spring-amqp-2.0.4.RELEASE.jar
+2019-04-27 19:36:53,099 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/com/rabbitmq/amqp-client/5.1.2/amqp-client-5.1.2.jar
+2019-04-27 19:36:53,898 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/com/rabbitmq/amqp-client/5.1.2/amqp-client-5.1.2.jar
+2019-04-27 19:36:54,205 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/integration/spring-integration-amqp/5.0.6.RELEASE/spring-integration-amqp-5.0.6.RELEASE.jar
+2019-04-27 19:36:54,509 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/integration/spring-integration-amqp/5.0.6.RELEASE/spring-integration-amqp-5.0.6.RELEASE.jar
+2019-04-27 19:36:54,814 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/integration/spring-integration-jmx/5.0.6.RELEASE/spring-integration-jmx-5.0.6.RELEASE.jar
+2019-04-27 19:36:55,093 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/integration/spring-integration-jmx/5.0.6.RELEASE/spring-integration-jmx-5.0.6.RELEASE.jar
+2019-04-27 19:36:55,222 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-bus/2.0.0.RELEASE/spring-cloud-bus-2.0.0.RELEASE.jar
+2019-04-27 19:36:55,451 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-bus/2.0.0.RELEASE/spring-cloud-bus-2.0.0.RELEASE.jar
+2019-04-27 19:36:55,705 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-stream/2.0.0.RELEASE/spring-cloud-stream-2.0.0.RELEASE.jar
+2019-04-27 19:36:55,952 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-stream/2.0.0.RELEASE/spring-cloud-stream-2.0.0.RELEASE.jar
+2019-04-27 19:36:56,094 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/boot/spring-boot-starter-validation/2.0.3.RELEASE/spring-boot-starter-validation-2.0.3.RELEASE.jar
+2019-04-27 19:36:56,220 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/boot/spring-boot-starter-validation/2.0.3.RELEASE/spring-boot-starter-validation-2.0.3.RELEASE.jar
+2019-04-27 19:36:56,342 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/spring-messaging/5.0.7.RELEASE/spring-messaging-5.0.7.RELEASE.jar
+2019-04-27 19:36:56,620 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/spring-messaging/5.0.7.RELEASE/spring-messaging-5.0.7.RELEASE.jar
+2019-04-27 19:36:56,738 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/spring-tuple/1.0.0.RELEASE/spring-tuple-1.0.0.RELEASE.jar
+2019-04-27 19:36:56,863 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/spring-tuple/1.0.0.RELEASE/spring-tuple-1.0.0.RELEASE.jar
+2019-04-27 19:36:56,984 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/com/esotericsoftware/kryo-shaded/3.0.3/kryo-shaded-3.0.3.jar
+2019-04-27 19:36:57,225 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/com/esotericsoftware/kryo-shaded/3.0.3/kryo-shaded-3.0.3.jar
+2019-04-27 19:36:57,344 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/com/esotericsoftware/minlog/1.3.0/minlog-1.3.0.jar
+2019-04-27 19:36:57,472 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/com/esotericsoftware/minlog/1.3.0/minlog-1.3.0.jar
+2019-04-27 19:36:57,590 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/integration/spring-integration-tuple/1.0.0.RELEASE/spring-integration-tuple-1.0.0.RELEASE.jar
+2019-04-27 19:36:57,732 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/integration/spring-integration-tuple/1.0.0.RELEASE/spring-integration-tuple-1.0.0.RELEASE.jar
+2019-04-27 19:36:57,852 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/retry/spring-retry/1.2.2.RELEASE/spring-retry-1.2.2.RELEASE.jar
+2019-04-27 19:36:58,011 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/retry/spring-retry/1.2.2.RELEASE/spring-retry-1.2.2.RELEASE.jar
+2019-04-27 19:36:58,235 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/integration/spring-integration-core/5.0.6.RELEASE/spring-integration-core-5.0.6.RELEASE.jar
+2019-04-27 19:36:58,733 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/integration/spring-integration-core/5.0.6.RELEASE/spring-integration-core-5.0.6.RELEASE.jar
+2019-04-27 19:36:58,859 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/spring-tx/5.0.7.RELEASE/spring-tx-5.0.7.RELEASE.jar
+2019-04-27 19:36:59,024 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/spring-tx/5.0.7.RELEASE/spring-tx-5.0.7.RELEASE.jar
+2019-04-27 19:36:59,159 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/io/projectreactor/reactor-core/3.1.8.RELEASE/reactor-core-3.1.8.RELEASE.jar
+2019-04-27 19:36:59,482 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/io/projectreactor/reactor-core/3.1.8.RELEASE/reactor-core-3.1.8.RELEASE.jar
+2019-04-27 19:36:59,599 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/reactivestreams/reactive-streams/1.0.2/reactive-streams-1.0.2.jar
+2019-04-27 19:36:59,745 [Worker-83: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/reactivestreams/reactive-streams/1.0.2/reactive-streams-1.0.2.jar
+2019-04-27 19:37:01,204 [Worker-83: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: io.caoxx123.springcloud:springcloud:0.0.1-SNAPSHOT @ D:\springCloud\springcloud\pom.xml.
+2019-04-27 19:37:01,806 [Worker-83: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.caoxx123.springcloud:eureka-server:0.0.1-SNAPSHOT @ D:\springCloud\springcloud\eureka-server\pom.xml.
+2019-04-27 19:37:02,532 [Worker-83: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.caoxx123.springcloud:product-data-service:0.0.1-SNAPSHOT @ D:\springCloud\springcloud\product-data-service\pom.xml.
+2019-04-27 19:37:03,332 [Worker-83: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.caoxx123.springcloud:product-view-service-ribbon:0.0.1-SNAPSHOT @ D:\springCloud\springcloud\product-view-service-ribbon\pom.xml.
+2019-04-27 19:37:03,743 [Worker-83: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.caoxx123.springcloud:config-serve:0.0.1-SNAPSHOT @ D:\springCloud\springcloud\config-serve\pom.xml.
+2019-04-27 19:37:09,527 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:37:09,536 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-27 19:37:09,566 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-04-27 19:37:09,574 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:37:09,574 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 19:37:10,161 [Worker-77: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-starter-bus-amqp/2.0.0.RELEASE/spring-cloud-starter-bus-amqp-2.0.0.RELEASE-sources.jar
+2019-04-27 19:37:10,303 [Worker-77: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-starter-bus-amqp/2.0.0.RELEASE/spring-cloud-starter-bus-amqp-2.0.0.RELEASE-sources.jar
+2019-04-27 19:37:10,368 [Worker-77: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-starter-bus-amqp:2.0.0.RELEASE
+2019-04-27 19:37:10,527 [Worker-77: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-starter-stream-rabbit/2.0.0.RELEASE/spring-cloud-starter-stream-rabbit-2.0.0.RELEASE-sources.jar
+2019-04-27 19:37:10,716 [Worker-77: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-starter-stream-rabbit/2.0.0.RELEASE/spring-cloud-starter-stream-rabbit-2.0.0.RELEASE-sources.jar
+2019-04-27 19:37:10,762 [Worker-77: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-starter-stream-rabbit:2.0.0.RELEASE
+2019-04-27 19:37:10,952 [Worker-77: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-stream-binder-rabbit/2.0.0.RELEASE/spring-cloud-stream-binder-rabbit-2.0.0.RELEASE-sources.jar
+2019-04-27 19:37:11,094 [Worker-77: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-stream-binder-rabbit/2.0.0.RELEASE/spring-cloud-stream-binder-rabbit-2.0.0.RELEASE-sources.jar
+2019-04-27 19:37:11,181 [Worker-77: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-stream-binder-rabbit:2.0.0.RELEASE
+2019-04-27 19:37:11,372 [Worker-77: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-stream-binder-rabbit-core/2.0.0.RELEASE/spring-cloud-stream-binder-rabbit-core-2.0.0.RELEASE-sources.jar
+2019-04-27 19:37:11,521 [Worker-77: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-stream-binder-rabbit-core/2.0.0.RELEASE/spring-cloud-stream-binder-rabbit-core-2.0.0.RELEASE-sources.jar
+2019-04-27 19:37:11,565 [Worker-77: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-stream-binder-rabbit-core:2.0.0.RELEASE
+2019-04-27 19:37:11,799 [Worker-77: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/boot/spring-boot-starter-amqp/2.0.3.RELEASE/spring-boot-starter-amqp-2.0.3.RELEASE-sources.jar
+2019-04-27 19:37:11,937 [Worker-77: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/boot/spring-boot-starter-amqp/2.0.3.RELEASE/spring-boot-starter-amqp-2.0.3.RELEASE-sources.jar
+2019-04-27 19:37:12,042 [Worker-77: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-amqp:2.0.3.RELEASE
+2019-04-27 19:37:12,252 [Worker-77: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/amqp/spring-rabbit/2.0.4.RELEASE/spring-rabbit-2.0.4.RELEASE-sources.jar
+2019-04-27 19:37:12,420 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:37:12,421 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-27 19:37:12,423 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 19:37:12,426 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:37:12,427 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 19:37:12,555 [Worker-77: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/amqp/spring-rabbit/2.0.4.RELEASE/spring-rabbit-2.0.4.RELEASE-sources.jar
+2019-04-27 19:37:12,594 [Worker-77: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.amqp:spring-rabbit:2.0.4.RELEASE
+2019-04-27 19:37:12,935 [Worker-77: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/amqp/spring-amqp/2.0.4.RELEASE/spring-amqp-2.0.4.RELEASE-sources.jar
+2019-04-27 19:37:13,137 [Worker-77: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/amqp/spring-amqp/2.0.4.RELEASE/spring-amqp-2.0.4.RELEASE-sources.jar
+2019-04-27 19:37:13,178 [Worker-77: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.amqp:spring-amqp:2.0.4.RELEASE
+2019-04-27 19:37:13,373 [Worker-77: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/com/rabbitmq/amqp-client/5.1.2/amqp-client-5.1.2-sources.jar
+2019-04-27 19:37:13,756 [Worker-77: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/com/rabbitmq/amqp-client/5.1.2/amqp-client-5.1.2-sources.jar
+2019-04-27 19:37:13,799 [Worker-77: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.rabbitmq:amqp-client:5.1.2
+2019-04-27 19:37:13,969 [Worker-77: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/integration/spring-integration-amqp/5.0.6.RELEASE/spring-integration-amqp-5.0.6.RELEASE-sources.jar
+2019-04-27 19:37:14,173 [Worker-77: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/integration/spring-integration-amqp/5.0.6.RELEASE/spring-integration-amqp-5.0.6.RELEASE-sources.jar
+2019-04-27 19:37:14,284 [Worker-77: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.integration:spring-integration-amqp:5.0.6.RELEASE
+2019-04-27 19:37:14,444 [Worker-77: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/integration/spring-integration-jmx/5.0.6.RELEASE/spring-integration-jmx-5.0.6.RELEASE-sources.jar
+2019-04-27 19:37:14,539 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:37:14,539 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-27 19:37:14,541 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 19:37:14,544 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:37:14,545 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 19:37:14,602 [Worker-77: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/integration/spring-integration-jmx/5.0.6.RELEASE/spring-integration-jmx-5.0.6.RELEASE-sources.jar
+2019-04-27 19:37:14,642 [Worker-77: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.integration:spring-integration-jmx:5.0.6.RELEASE
+2019-04-27 19:37:14,823 [Worker-77: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-bus/2.0.0.RELEASE/spring-cloud-bus-2.0.0.RELEASE-sources.jar
+2019-04-27 19:37:14,969 [Worker-77: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-bus/2.0.0.RELEASE/spring-cloud-bus-2.0.0.RELEASE-sources.jar
+2019-04-27 19:37:15,025 [Worker-77: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-bus:2.0.0.RELEASE
+2019-04-27 19:37:15,257 [Worker-77: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-stream/2.0.0.RELEASE/spring-cloud-stream-2.0.0.RELEASE-sources.jar
+2019-04-27 19:37:15,498 [Worker-77: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-stream/2.0.0.RELEASE/spring-cloud-stream-2.0.0.RELEASE-sources.jar
+2019-04-27 19:37:15,575 [Worker-77: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-stream:2.0.0.RELEASE
+2019-04-27 19:37:15,724 [Worker-77: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/boot/spring-boot-starter-validation/2.0.3.RELEASE/spring-boot-starter-validation-2.0.3.RELEASE-sources.jar
+2019-04-27 19:37:16,000 [Worker-77: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/boot/spring-boot-starter-validation/2.0.3.RELEASE/spring-boot-starter-validation-2.0.3.RELEASE-sources.jar
+2019-04-27 19:37:16,065 [Worker-77: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-validation:2.0.3.RELEASE
+2019-04-27 19:37:16,196 [Worker-77: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/spring-messaging/5.0.7.RELEASE/spring-messaging-5.0.7.RELEASE-sources.jar
+2019-04-27 19:37:16,392 [Worker-77: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/spring-messaging/5.0.7.RELEASE/spring-messaging-5.0.7.RELEASE-sources.jar
+2019-04-27 19:37:16,436 [Worker-77: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-messaging:5.0.7.RELEASE
+2019-04-27 19:37:16,561 [Worker-77: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/spring-tuple/1.0.0.RELEASE/spring-tuple-1.0.0.RELEASE-sources.jar
+2019-04-27 19:37:16,716 [Worker-77: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/spring-tuple/1.0.0.RELEASE/spring-tuple-1.0.0.RELEASE-sources.jar
+2019-04-27 19:37:16,756 [Worker-77: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-tuple:1.0.0.RELEASE
+2019-04-27 19:37:16,885 [Worker-77: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/com/esotericsoftware/kryo-shaded/3.0.3/kryo-shaded-3.0.3-sources.jar
+2019-04-27 19:37:16,923 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:37:16,926 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-27 19:37:16,929 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 19:37:16,933 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:37:16,934 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 19:37:17,043 [Worker-77: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/com/esotericsoftware/kryo-shaded/3.0.3/kryo-shaded-3.0.3-sources.jar
+2019-04-27 19:37:17,084 [Worker-77: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.esotericsoftware:kryo-shaded:3.0.3
+2019-04-27 19:37:17,245 [Worker-77: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/com/esotericsoftware/minlog/1.3.0/minlog-1.3.0-sources.jar
+2019-04-27 19:37:17,375 [Worker-77: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/com/esotericsoftware/minlog/1.3.0/minlog-1.3.0-sources.jar
+2019-04-27 19:37:17,419 [Worker-77: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.esotericsoftware:minlog:1.3.0
+2019-04-27 19:37:17,549 [Worker-77: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/integration/spring-integration-tuple/1.0.0.RELEASE/spring-integration-tuple-1.0.0.RELEASE-sources.jar
+2019-04-27 19:37:17,676 [Worker-77: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/integration/spring-integration-tuple/1.0.0.RELEASE/spring-integration-tuple-1.0.0.RELEASE-sources.jar
+2019-04-27 19:37:17,707 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:37:17,712 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-27 19:37:17,715 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-04-27 19:37:17,725 [Worker-77: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.integration:spring-integration-tuple:1.0.0.RELEASE
+2019-04-27 19:37:17,741 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:37:17,741 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 19:37:17,849 [Worker-77: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/retry/spring-retry/1.2.2.RELEASE/spring-retry-1.2.2.RELEASE-sources.jar
+2019-04-27 19:37:17,990 [Worker-77: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/retry/spring-retry/1.2.2.RELEASE/spring-retry-1.2.2.RELEASE-sources.jar
+2019-04-27 19:37:18,037 [Worker-77: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.retry:spring-retry:1.2.2.RELEASE
+2019-04-27 19:37:18,321 [Worker-77: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/integration/spring-integration-core/5.0.6.RELEASE/spring-integration-core-5.0.6.RELEASE-sources.jar
+2019-04-27 19:37:18,667 [Worker-77: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/integration/spring-integration-core/5.0.6.RELEASE/spring-integration-core-5.0.6.RELEASE-sources.jar
+2019-04-27 19:37:18,724 [Worker-77: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.integration:spring-integration-core:5.0.6.RELEASE
+2019-04-27 19:37:18,899 [Worker-77: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/spring-tx/5.0.7.RELEASE/spring-tx-5.0.7.RELEASE-sources.jar
+2019-04-27 19:37:19,087 [Worker-77: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/spring-tx/5.0.7.RELEASE/spring-tx-5.0.7.RELEASE-sources.jar
+2019-04-27 19:37:19,162 [Worker-77: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-tx:5.0.7.RELEASE
+2019-04-27 19:37:19,289 [Worker-77: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/io/projectreactor/reactor-core/3.1.8.RELEASE/reactor-core-3.1.8.RELEASE-sources.jar
+2019-04-27 19:37:19,525 [Worker-77: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/io/projectreactor/reactor-core/3.1.8.RELEASE/reactor-core-3.1.8.RELEASE-sources.jar
+2019-04-27 19:37:19,569 [Worker-77: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.projectreactor:reactor-core:3.1.8.RELEASE
+2019-04-27 19:37:19,696 [Worker-77: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/reactivestreams/reactive-streams/1.0.2/reactive-streams-1.0.2-sources.jar
+2019-04-27 19:37:19,833 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:37:19,834 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-27 19:37:19,836 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-27 19:37:19,840 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:37:19,840 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 19:37:19,848 [Worker-77: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/reactivestreams/reactive-streams/1.0.2/reactive-streams-1.0.2-sources.jar
+2019-04-27 19:37:19,891 [Worker-77: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.reactivestreams:reactive-streams:1.0.2
+2019-04-27 19:37:21,549 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:37:21,551 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 19:37:21,552 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 19:37:21,554 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:37:21,556 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 19:37:50,767 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:37:50,769 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 19:37:50,769 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-27 19:37:50,776 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:37:50,776 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 19:38:17,997 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:38:17,997 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 19:38:17,998 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-27 19:38:18,003 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:38:18,004 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 19:38:58,831 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:38:58,832 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 19:38:58,832 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-27 19:38:58,837 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:38:58,837 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 19:39:11,768 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:39:11,768 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 19:39:11,768 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-27 19:39:11,772 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:39:11,772 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 19:41:51,900 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:41:51,900 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 19:41:51,900 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-27 19:41:51,905 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:41:51,905 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 19:45:37,889 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:45:37,891 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-27 19:45:37,893 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-04-27 19:45:37,897 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:45:37,897 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 19:46:11,980 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:46:11,981 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-27 19:46:11,983 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-04-27 19:46:11,987 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:46:11,987 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 19:46:21,800 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:46:21,801 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-27 19:46:21,803 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-04-27 19:46:21,808 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:46:21,808 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 19:46:55,658 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:46:55,659 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-27 19:46:55,661 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-04-27 19:46:55,669 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:46:55,669 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 19:47:22,611 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:47:22,612 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-27 19:47:22,614 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-04-27 19:47:22,618 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:47:22,618 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 19:49:14,322 [Worker-86: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.caoxx123.springcloud:product-view-service-feign:0.0.1-SNAPSHOT @ D:\springCloud\springcloud\product-view-service-feign\pom.xml.
+2019-04-27 19:49:16,165 [Worker-86: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-starter-netflix-hystrix/2.0.0.RELEASE/spring-cloud-starter-netflix-hystrix-2.0.0.RELEASE.pom
+2019-04-27 19:49:16,374 [Worker-86: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-starter-netflix-hystrix/2.0.0.RELEASE/spring-cloud-starter-netflix-hystrix-2.0.0.RELEASE.pom
+2019-04-27 19:49:16,520 [Worker-86: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/com/netflix/hystrix/hystrix-serialization/1.5.12/hystrix-serialization-1.5.12.pom
+2019-04-27 19:49:16,649 [Worker-86: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/com/netflix/hystrix/hystrix-serialization/1.5.12/hystrix-serialization-1.5.12.pom
+2019-04-27 19:49:16,809 [Worker-86: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/com/fasterxml/jackson/module/jackson-module-afterburner/2.9.6/jackson-module-afterburner-2.9.6.pom
+2019-04-27 19:49:16,942 [Worker-86: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/com/fasterxml/jackson/module/jackson-module-afterburner/2.9.6/jackson-module-afterburner-2.9.6.pom
+2019-04-27 19:49:17,107 [Worker-86: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/com/netflix/hystrix/hystrix-metrics-event-stream/1.5.12/hystrix-metrics-event-stream-1.5.12.pom
+2019-04-27 19:49:17,239 [Worker-86: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/com/netflix/hystrix/hystrix-metrics-event-stream/1.5.12/hystrix-metrics-event-stream-1.5.12.pom
+2019-04-27 19:49:17,376 [Worker-86: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/com/netflix/hystrix/hystrix-javanica/1.5.12/hystrix-javanica-1.5.12.pom
+2019-04-27 19:49:17,508 [Worker-86: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/com/netflix/hystrix/hystrix-javanica/1.5.12/hystrix-javanica-1.5.12.pom
+2019-04-27 19:49:17,643 [Worker-86: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7.pom
+2019-04-27 19:49:17,808 [Worker-86: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7.pom
+2019-04-27 19:49:17,948 [Worker-86: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/com/google/guava/guava/15.0/guava-15.0.pom
+2019-04-27 19:49:18,075 [Worker-86: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/com/google/guava/guava/15.0/guava-15.0.pom
+2019-04-27 19:49:18,208 [Worker-86: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/com/google/guava/guava-parent/15.0/guava-parent-15.0.pom
+2019-04-27 19:49:18,337 [Worker-86: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/com/google/guava/guava-parent/15.0/guava-parent-15.0.pom
+2019-04-27 19:49:18,469 [Worker-86: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/io/reactivex/rxjava-reactive-streams/1.2.1/rxjava-reactive-streams-1.2.1.pom
+2019-04-27 19:49:18,600 [Worker-86: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/io/reactivex/rxjava-reactive-streams/1.2.1/rxjava-reactive-streams-1.2.1.pom
+2019-04-27 19:49:19,100 [Worker-86: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-starter-netflix-hystrix/2.0.0.RELEASE/spring-cloud-starter-netflix-hystrix-2.0.0.RELEASE.jar
+2019-04-27 19:49:19,237 [Worker-86: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-starter-netflix-hystrix/2.0.0.RELEASE/spring-cloud-starter-netflix-hystrix-2.0.0.RELEASE.jar
+2019-04-27 19:49:19,370 [Worker-86: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/com/netflix/hystrix/hystrix-serialization/1.5.12/hystrix-serialization-1.5.12.jar
+2019-04-27 19:49:19,536 [Worker-86: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/com/netflix/hystrix/hystrix-serialization/1.5.12/hystrix-serialization-1.5.12.jar
+2019-04-27 19:49:19,666 [Worker-86: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/com/fasterxml/jackson/module/jackson-module-afterburner/2.9.6/jackson-module-afterburner-2.9.6.jar
+2019-04-27 19:49:19,867 [Worker-86: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/com/fasterxml/jackson/module/jackson-module-afterburner/2.9.6/jackson-module-afterburner-2.9.6.jar
+2019-04-27 19:49:19,991 [Worker-86: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/com/netflix/hystrix/hystrix-metrics-event-stream/1.5.12/hystrix-metrics-event-stream-1.5.12.jar
+2019-04-27 19:49:20,131 [Worker-86: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/com/netflix/hystrix/hystrix-metrics-event-stream/1.5.12/hystrix-metrics-event-stream-1.5.12.jar
+2019-04-27 19:49:20,260 [Worker-86: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/com/netflix/hystrix/hystrix-javanica/1.5.12/hystrix-javanica-1.5.12.jar
+2019-04-27 19:49:20,431 [Worker-86: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/com/netflix/hystrix/hystrix-javanica/1.5.12/hystrix-javanica-1.5.12.jar
+2019-04-27 19:49:20,560 [Worker-86: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7.jar
+2019-04-27 19:49:20,795 [Worker-86: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7.jar
+2019-04-27 19:49:20,924 [Worker-86: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/com/google/guava/guava/15.0/guava-15.0.jar
+2019-04-27 19:49:21,431 [Worker-86: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/com/google/guava/guava/15.0/guava-15.0.jar
+2019-04-27 19:49:21,558 [Worker-86: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/io/reactivex/rxjava-reactive-streams/1.2.1/rxjava-reactive-streams-1.2.1.jar
+2019-04-27 19:49:21,697 [Worker-86: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/io/reactivex/rxjava-reactive-streams/1.2.1/rxjava-reactive-streams-1.2.1.jar
+2019-04-27 19:49:22,595 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:49:22,596 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 19:49:22,596 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 19:49:22,600 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:49:22,600 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 19:49:28,807 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:49:28,809 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-27 19:49:28,815 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-04-27 19:49:28,830 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:49:28,830 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 19:49:29,237 [Worker-91: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-starter-netflix-hystrix/2.0.0.RELEASE/spring-cloud-starter-netflix-hystrix-2.0.0.RELEASE-sources.jar
+2019-04-27 19:49:29,486 [Worker-91: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/springframework/cloud/spring-cloud-starter-netflix-hystrix/2.0.0.RELEASE/spring-cloud-starter-netflix-hystrix-2.0.0.RELEASE-sources.jar
+2019-04-27 19:49:29,537 [Worker-91: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-starter-netflix-hystrix:2.0.0.RELEASE
+2019-04-27 19:49:29,675 [Worker-91: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/com/netflix/hystrix/hystrix-serialization/1.5.12/hystrix-serialization-1.5.12-sources.jar
+2019-04-27 19:49:29,810 [Worker-91: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/com/netflix/hystrix/hystrix-serialization/1.5.12/hystrix-serialization-1.5.12-sources.jar
+2019-04-27 19:49:29,849 [Worker-91: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.hystrix:hystrix-serialization:1.5.12
+2019-04-27 19:49:30,054 [Worker-91: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/com/fasterxml/jackson/module/jackson-module-afterburner/2.9.6/jackson-module-afterburner-2.9.6-sources.jar
+2019-04-27 19:49:30,321 [Worker-91: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/com/fasterxml/jackson/module/jackson-module-afterburner/2.9.6/jackson-module-afterburner-2.9.6-sources.jar
+2019-04-27 19:49:30,367 [Worker-91: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.module:jackson-module-afterburner:2.9.6
+2019-04-27 19:49:30,497 [Worker-91: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/com/netflix/hystrix/hystrix-metrics-event-stream/1.5.12/hystrix-metrics-event-stream-1.5.12-sources.jar
+2019-04-27 19:49:30,627 [Worker-91: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/com/netflix/hystrix/hystrix-metrics-event-stream/1.5.12/hystrix-metrics-event-stream-1.5.12-sources.jar
+2019-04-27 19:49:30,676 [Worker-91: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.hystrix:hystrix-metrics-event-stream:1.5.12
+2019-04-27 19:49:30,801 [Worker-91: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/com/netflix/hystrix/hystrix-javanica/1.5.12/hystrix-javanica-1.5.12-sources.jar
+2019-04-27 19:49:30,957 [Worker-91: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/com/netflix/hystrix/hystrix-javanica/1.5.12/hystrix-javanica-1.5.12-sources.jar
+2019-04-27 19:49:31,006 [Worker-91: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.hystrix:hystrix-javanica:1.5.12
+2019-04-27 19:49:31,136 [Worker-91: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7-sources.jar
+2019-04-27 19:49:31,376 [Worker-91: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7-sources.jar
+2019-04-27 19:49:31,422 [Worker-91: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-lang3:3.7
+2019-04-27 19:49:31,594 [Worker-91: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/com/google/guava/guava/15.0/guava-15.0-sources.jar
+2019-04-27 19:49:31,904 [Worker-91: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/com/google/guava/guava/15.0/guava-15.0-sources.jar
+2019-04-27 19:49:31,949 [Worker-91: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.guava:guava:15.0
+2019-04-27 19:49:32,091 [Worker-91: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/repositories/central/io/reactivex/rxjava-reactive-streams/1.2.1/rxjava-reactive-streams-1.2.1-sources.jar
+2019-04-27 19:49:32,215 [Worker-91: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/repositories/central/io/reactivex/rxjava-reactive-streams/1.2.1/rxjava-reactive-streams-1.2.1-sources.jar
+2019-04-27 19:49:32,293 [Worker-91: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.reactivex:rxjava-reactive-streams:1.2.1
+2019-04-27 19:49:33,533 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:49:33,534 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 19:49:33,534 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 19:49:33,536 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:49:33,536 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 19:52:49,194 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:52:49,195 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-27 19:52:49,198 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-04-27 19:52:49,201 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:52:49,202 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 19:55:39,086 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:55:39,087 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-27 19:55:39,089 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-04-27 19:55:39,092 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:55:39,092 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 19:55:44,774 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:55:44,775 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-27 19:55:44,777 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-04-27 19:55:44,781 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:55:44,781 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 19:55:52,539 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:55:52,540 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-27 19:55:52,543 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-04-27 19:55:52,548 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:55:52,548 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 19:56:06,183 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:56:06,184 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-27 19:56:06,186 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-04-27 19:56:06,190 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:56:06,190 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 19:56:17,198 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:56:17,199 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-27 19:56:17,201 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-04-27 19:56:17,205 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:56:17,205 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 19:56:25,416 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:56:25,416 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-27 19:56:25,418 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-04-27 19:56:25,421 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:56:25,421 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 19:57:25,290 [Worker-90: Launching ProductViewServiceFeignApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:57:25,291 [Worker-90: Launching ProductViewServiceFeignApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-27 19:57:25,293 [Worker-90: Launching ProductViewServiceFeignApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-04-27 19:57:25,296 [Worker-90: Launching ProductViewServiceFeignApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 19:57:25,296 [Worker-90: Launching ProductViewServiceFeignApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 20:04:29,100 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 20:04:29,100 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 20:04:29,101 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-27 20:04:29,105 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 20:04:29,105 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 20:04:42,959 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 20:04:42,959 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-27 20:04:42,961 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 20:04:42,963 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 20:04:42,964 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 20:08:54,290 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 20:08:54,291 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-27 20:08:54,292 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 20:08:54,295 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 20:08:54,295 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 20:10:26,500 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 20:10:26,500 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-27 20:10:26,502 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 20:10:26,504 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 20:10:26,504 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 20:12:38,040 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 20:12:38,040 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-27 20:12:38,041 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 20:12:38,043 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 20:12:38,043 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 20:14:02,733 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 20:14:02,734 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-27 20:14:02,735 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 20:14:02,737 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 20:14:02,737 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 20:14:18,193 [Worker-80: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-04-27 20:14:20,044 [Worker-80: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: io.caoxx123.springcloud:springcloud:0.0.1-SNAPSHOT @ D:\springCloud\springcloud\pom.xml.
+2019-04-27 20:14:21,116 [Worker-80: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.caoxx123.springcloud:config-serve:0.0.1-SNAPSHOT @ D:\springCloud\springcloud\config-serve\pom.xml.
+2019-04-27 20:14:22,357 [Worker-80: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.caoxx123.springcloud:eureka-server:0.0.1-SNAPSHOT @ D:\springCloud\springcloud\eureka-server\pom.xml.
+2019-04-27 20:14:22,733 [Worker-80: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.caoxx123.springcloud:product-data-service:0.0.1-SNAPSHOT @ D:\springCloud\springcloud\product-data-service\pom.xml.
+2019-04-27 20:14:23,206 [Worker-80: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.caoxx123.springcloud:product-view-service-feign:0.0.1-SNAPSHOT @ D:\springCloud\springcloud\product-view-service-feign\pom.xml.
+2019-04-27 20:14:23,843 [Worker-80: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.caoxx123.springcloud:product-view-service-ribbon:0.0.1-SNAPSHOT @ D:\springCloud\springcloud\product-view-service-ribbon\pom.xml.
+2019-04-27 20:14:25,809 [Worker-80: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /config-serve/src/main/java
+2019-04-27 20:14:25,809 [Worker-80: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /config-serve/src/main/resources
+2019-04-27 20:14:25,810 [Worker-80: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /config-serve/src/main/resources
+2019-04-27 20:14:25,810 [Worker-80: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /config-serve/src/test/java
+2019-04-27 20:14:25,811 [Worker-80: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /config-serve/src/test/resources
+2019-04-27 20:14:26,327 [Worker-80: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /eureka-server/src/main/java
+2019-04-27 20:14:26,327 [Worker-80: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /eureka-server/src/main/resources
+2019-04-27 20:14:26,328 [Worker-80: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /eureka-server/src/main/resources
+2019-04-27 20:14:26,328 [Worker-80: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /eureka-server/src/test/java
+2019-04-27 20:14:26,328 [Worker-80: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /eureka-server/src/test/resources
+2019-04-27 20:14:26,665 [Worker-80: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /product-data-service/src/main/java
+2019-04-27 20:14:26,665 [Worker-80: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /product-data-service/src/main/resources
+2019-04-27 20:14:26,665 [Worker-80: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /product-data-service/src/main/resources
+2019-04-27 20:14:26,666 [Worker-80: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /product-data-service/src/test/java
+2019-04-27 20:14:26,666 [Worker-80: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /product-data-service/src/test/resources
+2019-04-27 20:14:26,983 [Worker-80: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /product-view-service-feign/src/main/java
+2019-04-27 20:14:26,983 [Worker-80: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /product-view-service-feign/src/main/resources
+2019-04-27 20:14:26,983 [Worker-80: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /product-view-service-feign/src/main/resources
+2019-04-27 20:14:26,984 [Worker-80: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /product-view-service-feign/src/test/java
+2019-04-27 20:14:26,985 [Worker-80: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /product-view-service-feign/src/test/resources
+2019-04-27 20:14:27,409 [Worker-80: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /product-view-service-ribbon/src/main/java
+2019-04-27 20:14:27,410 [Worker-80: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /product-view-service-ribbon/src/main/resources
+2019-04-27 20:14:27,410 [Worker-80: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /product-view-service-ribbon/src/main/resources
+2019-04-27 20:14:27,411 [Worker-80: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /product-view-service-ribbon/src/test/java
+2019-04-27 20:14:27,411 [Worker-80: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /product-view-service-ribbon/src/test/resources
+2019-04-27 20:14:28,674 [Worker-80: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 10 sec
+2019-04-27 20:14:30,140 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 20:14:30,140 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-27 20:14:30,160 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 20:14:30,163 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 20:14:30,163 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 20:14:31,689 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 20:14:31,689 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-27 20:14:31,691 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 20:14:31,693 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 20:14:31,693 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 20:14:33,128 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 20:14:33,128 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-27 20:14:33,130 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 20:14:33,132 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 20:14:33,132 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 20:14:34,959 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 20:14:34,960 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-27 20:14:34,962 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-04-27 20:14:34,973 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 20:14:34,973 [Worker-96: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 20:14:36,485 [Worker-95: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 20:14:36,486 [Worker-95: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-27 20:14:36,487 [Worker-95: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-27 20:14:36,495 [Worker-95: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 20:14:36,495 [Worker-95: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 20:17:47,243 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 20:17:47,245 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-27 20:17:47,247 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 20:17:47,250 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 20:17:47,250 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 20:20:07,297 [Worker-95: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 20:20:07,297 [Worker-95: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-27 20:20:07,299 [Worker-95: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 20:20:07,302 [Worker-95: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 20:20:07,302 [Worker-95: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 20:20:17,554 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 20:20:17,555 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-27 20:20:17,557 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-04-27 20:20:17,562 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 20:20:17,563 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 20:20:33,395 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 20:20:33,395 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-27 20:20:33,396 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-27 20:20:33,399 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 20:20:33,399 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

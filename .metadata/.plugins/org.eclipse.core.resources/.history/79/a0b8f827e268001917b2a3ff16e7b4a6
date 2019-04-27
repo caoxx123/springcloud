@@ -1,0 +1,10 @@
+package io.caoxx123.util;
+
+public class FreshConfigUtil {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
